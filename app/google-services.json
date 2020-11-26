@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "415300518510",
+    "firebase_url": "https://moallemtask.firebaseio.com",
+    "project_id": "moallemtask",
+    "storage_bucket": "moallemtask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415300518510:android:1d793bf0715493e1ee5c7f",
+        "android_client_info": {
+          "package_name": "com.example.moallem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415300518510-dke6ils9toupukhagk03247fkgrbt7as.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.moallem",
+            "certificate_hash": "73752e1a33f6b4082edb1343a9011f3b51ca6bed"
+          }
+        },
+        {
+          "client_id": "415300518510-q8s1lnam79nin3lavfolifkais5c0vcq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI8uq3IPTvqInCwWbITg4FIwaLB79x46A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415300518510-q8s1lnam79nin3lavfolifkais5c0vcq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
